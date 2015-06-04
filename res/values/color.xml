@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="global_activity_color">#FFFFFF</color>
+    <color name="border_color">#E5E8E7</color>
+    <color name="background">#32AA0D</color>
+    
+    <!-- 对话框按钮颜色 -->
+    <color name="btn_normal_color">#C0392B</color><!-- 按钮正常颜色值，即没按下 -->
+    <color name="btn_press_color">#A5281B</color><!-- 按钮按下显示的颜色值 -->
+    
+    <color name="title_bg_color">#32AA0D</color>
+    <color name="title_iv_press_color">#529E1A</color>
+    
+</resources>
